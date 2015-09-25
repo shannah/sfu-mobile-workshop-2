@@ -1,0 +1,9 @@
+private
+build
+dist
+JavaSE.jar
+CLDC11.jar
+CodenameOne.jar
+CodenameOne_SRC.jar
+CodenameOneBuildClient.jar
+lib/impl
